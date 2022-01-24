@@ -1,0 +1,17 @@
+.content{
+  height: 1197px;
+}
+.img{
+  display: flex;
+  align-items: center;
+  justify-content:space-evenly;
+  
+}
+
+.title{
+  display: flex;
+  justify-content: center;
+  padding: 68px;
+  font-weight: 800;
+  font-size: 60px;
+}

@@ -1,0 +1,40 @@
+.sandalia{
+  display: flex;
+  justify-content: center;
+  height: 1218px;
+  padding: 105px ;
+  
+  align-items: flex-end;
+}
+
+.description-sandalia{
+  height: 944px;
+}
+
+.description{
+  height: 276px;
+  justify-content:center;
+  width: 513px;
+}
+.description h3{
+  font-weight: 600;
+  font-size:35px;
+}
+.description input{
+  background-color: #C2185B;
+  width:403px;
+  height:94px;
+  margin-top: 32px;
+  color: #fff;
+  font-size:25px;
+  font-weight:600;
+  cursor: pointer;
+  border: none;
+}
+/* description input:hover{
+
+} */
+.card-sandalia{
+  margin: 20px;
+}
+

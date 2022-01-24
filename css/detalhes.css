@@ -1,0 +1,18 @@
+footer{
+  height: 341px;
+}
+.mais-detalhes{
+  display: flex;
+  justify-content: space-around;
+  padding: 50px;
+  align-items: center;
+  background-color: #C2185B;
+  color: #fff;
+}
+.mais-detalhes li{
+  color: #fff;
+  padding: 7px;
+}
+.info-loja{
+  width: 250px;
+}
