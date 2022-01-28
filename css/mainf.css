@@ -1,0 +1,39 @@
+.main{
+  display: flex;
+  width: 90%;
+  margin: 50px auto;
+  justify-content: space-around
+}
+.texto{
+  display:flex;
+  width: 30%;
+}
+.detalhes{
+ display: flex;
+ justify-content: center;
+}
+.mainf{
+  width: 50%;
+}
+
+.formData{
+  display: flex;
+  flex-direction: column;
+  
+}
+.data{
+  display: flex;
+  flex-direction: column;
+}
+
+input select textarea button{
+  border: 1px solid #9B9B9B;
+}
+label{
+  color: #9B9B9B;
+}
+
+.fundo{
+ 
+  width: 250px;
+}
