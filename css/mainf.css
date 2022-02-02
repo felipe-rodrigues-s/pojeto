@@ -7,6 +7,7 @@
 .texto{
   display:flex;
   width: 30%;
+  margin-top: 50px;
 }
 .detalhes{
  display: flex;

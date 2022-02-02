@@ -1,0 +1,30 @@
+#bannerfret{
+  width: 100%;
+  position: absolute;
+  top: 130px;
+  z-index: 2;
+  animation-name: fantasma;
+  animation-duration: 300ms;
+  animation-iteration-count: 1;
+}
+#bannerfret{
+  background-color: #C2185B;
+  padding: 10px;
+  border-radius: 5px;
+  text-align: center;
+  color: rgb(240, 231, 231);
+}
+
+#bannerfret:hover{
+  margin-top:2px ;
+  padding: 15px;
+  transition: 300ms;
+}
+
+@keyframes fantasma{
+  0%{opacity: 0%;}
+  20%{opacity: 25%;}
+  50%{opacity: 50%;}
+  70%{opacity: 75%;}
+  100%{opacity: 100%;}
+}
